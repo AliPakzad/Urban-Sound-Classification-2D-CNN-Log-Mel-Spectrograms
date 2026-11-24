@@ -56,7 +56,7 @@ The 2D CNN achieved an excellent overall accuracy of **92.2%** on the unseen tes
    jupyter notebook notebooks/urban-sound-classification.ipynb
 
 ## 🔗 Links
-* **Kaggle Notebook:** [Insert your specific Kaggle Notebook Link Here]
+* **Kaggle Notebook:** https://www.kaggle.com/code/alipakzad/sound-classification-with-2d-cnn-log-mel-93-acc
 * **LinkedIn:** https://www.linkedin.com/in/ali-pakzad-b145a3b4
 * **GitHub Profile:** https://github.com/AliPakzad
 
